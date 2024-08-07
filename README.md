@@ -25,7 +25,7 @@ Hi, I'm Sadaf Hussain, a passionate Computer Science student with a strong enthu
 
 ## Projects
 - [Shopstar](https://github.com/Myworldisjarvis/Shopstar): A dynamic E-Commerce website to buy mady by java and other technologyes.
-- [MovieKida](https://github.com/Myworldisjarvis/moviekida): A movie website for search movies detail , better UI.
+- [MovieKida](https://github.com/Myworldisjarvis/moviekida): A movie website for search movies detail , and this web have better UI.
 
 ## Contact Me
 - 📧 [Email](mailto:namesadaf@gmail.com)
