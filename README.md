@@ -1,4 +1,4 @@
-# Hi there, I'm Sadaf Hussain (Java Devloper)👋
+# Hi there, I'm Sadaf Hussain (Java Developer)👋
 ---------------------------------------------------------
 # Welcome !!
 ---------------------------------------------------------
